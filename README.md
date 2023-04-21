@@ -18,3 +18,7 @@ The repository contains the following files and directories:
 * `requirements.txt` : This file contains the necessary Python dependencies for the Azure Function.
 * `pyspark_job.py`: This file contains the Apache Spark job code that performs the transformations.
 * `README.md`: This file, which contains information about the project and how to use it
+
+## Contributing
+
+Contributions to the project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
