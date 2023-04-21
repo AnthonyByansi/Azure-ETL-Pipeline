@@ -5,6 +5,7 @@ This repository contains the code for a serverless ETL data pipeline built on Az
 ## Getting Started
 
 To get started with the project, follow these steps:
+
 1. Clone the repository
 2. Set up your Azure account and create an Azure Functions app
 3. Create the necessary input and output bindings in your Azure Functions app for your data source and target destination
