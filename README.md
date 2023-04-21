@@ -22,3 +22,7 @@ The repository contains the following files and directories:
 ## Contributing
 
 Contributions to the project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
