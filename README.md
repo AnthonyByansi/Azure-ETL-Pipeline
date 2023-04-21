@@ -10,3 +10,7 @@ To get started with the project, follow these steps:
 3. Create the necessary input and output bindings in your Azure Functions app for your data source and target destination
 4. Deploy the Azure Functions app to Azure
 5. Run the pipeline by triggering the Azure Function
+
+## Project Structure
+
+The repository contains the following files and directories:
