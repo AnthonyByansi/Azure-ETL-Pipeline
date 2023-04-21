@@ -1,0 +1,23 @@
+{
+    "bindings": [
+      {
+        "name": "req",
+        "type": "httpTrigger",
+        "direction": "in",
+        "authLevel": "anonymous",
+        "methods": [
+          "post"
+        ]
+      },
+      {
+        "name": "outputDocument",
+        "type": "cosmosDB",
+        "databaseName": "yourDatabaseName",
+        "collectionName": "yourCollectionName",
+        "createIfNotExists": false,
+        "connectionStringSetting": "yourConnectionStringSetting",
+        "direction": "out"
+      }
+    ]
+  }
+  
