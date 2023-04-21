@@ -16,4 +16,5 @@ To get started with the project, follow these steps:
 The repository contains the following files and directories:
 * `src/`: This directory contains the source code for the Azure Function that performs the ETL pipeline.
 * `requirements.txt` : This file contains the necessary Python dependencies for the Azure Function.
-* `pyspark_job.py`: This file contains the Apache Spark job code that performs the transformations
+* `pyspark_job.py`: This file contains the Apache Spark job code that performs the transformations.
+* `README.md`: This file, which contains information about the project and how to use it
